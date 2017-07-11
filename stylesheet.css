@@ -1,0 +1,19 @@
+ h1 {
+     text-align: center
+ }
+ 
+ h2 {
+  text-align: center;
+ }
+ 
+ .buttons {
+  text-align: center;
+ }
+ 
+.icons {
+ margin-left: 47%
+}
+ body {
+  background-image: url(http://vignette1.wikia.nocookie.net/pokemontowerdefensetwo/images/c/cb/Charizard_banner.jpg/revision/latest?cb=20160623044242);
+  background-size: cover;
+ }
